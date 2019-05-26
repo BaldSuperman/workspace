@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?> <!-- 处理指令-->
+<Student  type="online" loc="beijin"> <!--跟 和跟的属性-->
+
+    <name>hahhah</name>
+    <age>18</age>
+</Student>
