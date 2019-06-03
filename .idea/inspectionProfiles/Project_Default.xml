@@ -8,6 +8,8 @@
           <option value="settings.__all__" />
           <option value="feiji.test4.plane_Sprite" />
           <option value="feiji.plane_main.plane_Sprite" />
+          <option value="select.epoll" />
+          <option value="mini_frame" />
         </list>
       </option>
     </inspection_tool>
