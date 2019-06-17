@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>background-属性</title>
+    <style type="text/css">
+        .box{
+            width:400px;
+            height:200px;
+            border:5px solid #000;
+            margin:50px auto 0;
+            /*使用background属性插入图片,默认填充满*/
+            /*background-image:url(image/right.jpg);*/
+            /*设置平铺方式background-repeat，
+             repeat-x:只平铺x轴方向
+             repeat-y:只平铺y轴方向
+             no-repeaat:只平铺一次
+            */
+            /*background-repeat:repeat-x;*/
+            /*background-repeat:no-repeat;*/
+            /*如果平铺方式设置为no-repeat，则可以设置其平铺位置*/
+            /*
+            水平方向（left，center，right）
+            垂直方向（top，center，bottom）
+            也可以写数值
+            */
+            /*background-position:left bottom;*/
+            /*也可以放在一块 顺序是backgroun-img background-position  background-repeat background-color*/
+            background:url(image/person.jpg) -20px 10px no-repeat cyan;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        的撒大使得
+    </div>
+</body>
+</html>

@@ -71,7 +71,8 @@ class WSGIServer(object):
         new_socket.close()
     def set_resonse_header(self, status,headers):
         self.status = status
-        self.headers = headers
+        self.headers = [("server","mini web v0.9")]
+        self.headers += headers
     def run_forever(self):
         print("start*********")
         #创建套接字

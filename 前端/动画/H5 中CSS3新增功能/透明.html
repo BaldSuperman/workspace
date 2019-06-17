@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        body{
+            background:url(image/banne01.jpg);
+        }
+        .box{
+            width:300px;
+            height:100px;
+            background-color:#000;
+            color:#fff;
+            font-size:30px;
+            text-align:center;
+            line-height:100px;
+            /*元素透明的完整写法*/
+            opacity:0.3;
+            filter:alpha(opacity=30)；
+        }
+        .box2{
+            width:300px;
+            height:100px;
+            /*使用rgba也可以设置透明色,前三个数值设置颜色 最后一个数值设置透明度*/
+            background-color:rgba(0,0,0,0.3);
+            color:#fff;
+            font-size:30px;
+            text-align:center;
+            line-height:100px;
+            margin-top:50px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="box">这是一个div</div>
+    <div class="box2">这是二个div</div>
+</body>
+</html>

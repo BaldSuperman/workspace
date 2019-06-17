@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .link{
+            font-size:30px;
+            text-decoration:none;
+            color:green;
+        }
+        /*伪类选择器*/
+        /*表示状态 hover鼠标放上去*/
+        .link:hover{
+            color:gold;
+            font-size:90px;
+        }
+        .box01,.box02{
+            font-size:20px;
+        }
+        /*伪元素选择器 在内容前面before 在内容后面after 和content配合使用*/
+        .box01:before{
+            content:"前面的文字";
+            color:red;
+        }
+        .box02:after{
+            content:"。";
+            color:gold;
+        }
+    </style>
+</head>
+<body>
+    <a  class="link" href="http://www.baidu.com">百度地址</a>
+    <div class="box01">这是第一个div</div>
+    <div class="box02">这时第二个div</div>
+</body>
+</html>

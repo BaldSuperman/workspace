@@ -9,6 +9,18 @@ create table goods(
     is_show bit not null default 1,
     is_salceff bit not null default 0
 );
+create table info(
+    id int unsigned primary key auto_increment not null,
+    code int ,
+    short varchar(40) not null,
+    chg varchar(40) not null,
+    time date
+);
+insert into goods values(0,0007,"quanxinhao”,"10",2017-01-03）;
+insert into info values(1,00025,"quadas","20",20170103);
+insert into info values(0,00507,"qadadasdnxinhao","10",20170103);
+insert into info values(0,00037,"quanxadahao","11",2017110103);
+insert into info values(0,00022,"quandaaao","122",201720103);
 insert into goods values(0,"huawei m5","bijiben","huawei",'3393',default,default);
 insert into goods values(0,"huawei m6","bijiben","huawei",'33943',default,default);
 insert into goods values(0,"huawei m7","bijiben","huawei",'33933',default,default);

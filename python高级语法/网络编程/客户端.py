@@ -6,6 +6,7 @@ import socket
 """
 
 def cilentFunc():
+    text = "<div>当前温度：{0}</div><div>当前湿度：{1}</div>".format(temperature, humidity)
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     text = "yang"
     # 发送的数据必须是bytes格式
