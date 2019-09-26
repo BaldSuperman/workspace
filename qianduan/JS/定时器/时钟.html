@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            var oDiv = document.getElementById('div1');
+
+            var timer02 = setInterval(fnTimego,1000);
+
+            function fnTimego(){
+                var sNow = new Date();
+                //获取年份
+                var iYear = sNow.getFullYear();
+                //获取月份月份是0到11的
+                var iMonth = sNow.getMonth()+1;
+                //获取日期
+                var iDate = sNow.getDate();
+                // 获取星期
+                var iWeek = sNow.getDay();
+
+                //获取小时
+                 var iHour = sNow.getHours();
+                //获取分钟
+                 var iMinute = sNow.getMinutes();
+                 //获取秒钟
+                 var iSecond = sNow.getSeconds();
+                 var sTr = '当前时间是'+iYear+'年 '+iMonth+'月 '+iDate+'日 '+'星期 '+iWeek+'  '+iHour+':'+iMinute+':'+iSecond ;
+                 oDiv.innerHTML = sTr;
+
+            }
+
+
+
+        }
+    </script>
+    <style type="text/css">
+        div{
+            text-align:center;
+            font-size:30px;
+            color:pink;
+            margin:0 auto ;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1"></div>
+</body>
+</html>

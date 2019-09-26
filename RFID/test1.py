@@ -32,7 +32,7 @@ def show():
     print("*", end=" ")
     print("输入数字 2 管理员给当前卡片充值",end=" ")
     print("*", end=" ")
-    print("输入数字 3 进行消费")
+    print("输入数字 3 查询温湿度")
 
 def judge4( Rfid):
     id, data = read()

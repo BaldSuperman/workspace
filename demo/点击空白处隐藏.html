@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		body{
+			height: 2000px;
+		}
+		#mask{
+			width: 100%;
+			height: 100%;
+			opacity: 0.1;
+			filter: alpha(opacity = 40);
+			background-color: black;
+			position: fixed;
+			top: 0;
+			left: 0;
+			display: none;
+		}
+		#show{
+			width: 300px;
+			height: 300px;
+			background-color: #fff;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			margin:-150px 0 0 -150px;
+			display: none;
+		}
+	</style>
+</head>
+<body>
+<a href="javascript:;" id="login">注册</a>
+<a href="javascript:;" id="">登录</a>
+<div id="mask"></div>
+<div id="show"></div>
+</body>
+</html>
+
+<script type="text/javascript">
+	function $(id) {return document.getElementById(id)}
+	var login = document.getElementById("login");
+	login.onclick = function  (event) {
+		$("mask").style.display = "block";
+		$("show").style.display = "block";
+		document.body.style.overflow = "hidden";
+		var event = event || window.evnet;
+		if (event&&event.stopPropagation) {
+			event.stopPropagation();
+		}
+		else{
+			event.cancelBubble= true;
+		}
+	}
+	document.onclick = function(event){
+		var evnet = event||window.event;
+		var targetId = event.target ? event.target.id : event.srcElement.id;
+		if (targetId != "show") {
+			$("mask").style.display = "none";
+			$("show").style.display = "none";
+			document.body.style.overflow = "visible";
+		}
+		
+	}
+</script>

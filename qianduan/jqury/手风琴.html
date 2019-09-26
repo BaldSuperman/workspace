@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var $list = $('.accordion ul li');
+            $list.click(function(){
+                //alert($(this).html());
+                $(this).animate({left:21*$(this).index()})
+
+                $(this).prevAll().each(function(){
+                    $(this).animate({left:21*$(this).index()})
+                })
+                $(this).nextAll().each(function(){
+                    $(this).animate({left:727-21*(5-$(this).index())});
+
+                })
+            })
+
+
+        })
+    </script>
+    <style type="text/css">
+        *{
+            margin:0;
+            padding:0;
+        }
+        body{
+            font-size:12px;
+        }
+        .accordion{
+            width:727px;
+            height:350px;
+            margin:100px auto 0;
+            position:relative;
+            border:1px solid #CCC;
+            overflow:hidden;
+        }
+        .accordion  ul{list-style:none;}
+        .accordion  ul li{
+            width:643px;
+            height:350px;
+            position:absolute;
+            background-color:#fff;
+        }
+        .accordion  ul li span{
+            display:block;
+            width:20px;
+            height:345px;
+            text-align:center;
+
+            float:left;
+            color:#fff;
+            padding-top:5px;
+            cursor:pointer;
+        }
+
+         .accordion  ul li img{
+            width:620px;
+            height:350px;
+            float:right;
+
+         }
+        .bar01{left:0px;}
+        .bar02{left:643px;}
+        .bar03{left:664px;}
+        .bar04{left:685px;}
+        .bar05{left:706px;}
+        .bar01 span{background:#09e0b5;}
+        .bar02 span{background:#234eb5;}
+        .bar03 span{background:#3465b5;}
+        .bar04 span{background:#3e24b5;}
+        .bar05 span{background:#5567e5;}
+
+
+    </style>
+</head>
+<body>
+    <div class="accordion">
+        <ul>
+            <li class="bar01"><span>景色01</span><img src="image/001.jpg" alt=""></li>
+            <li class="bar02"><span>景色02</span><img src="image/001.jpg" alt=""></li>
+            <li class="bar03"><span>景色03</span><img src="image/001.jpg" alt=""></li>
+            <li class="bar04"><span>景色04</span><img src="image/001.jpg" alt=""></li>
+            <li class="bar05"><span>景色05</span><img src="image/001.jpg" alt=""></li>
+        </ul>
+
+
+
+
+    </div>
+</body>
+</html>

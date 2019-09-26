@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            //通过html的字符串的方式添加节点，性能最高
+            //$('#div1').html($('#div1').html()+'<a href="#">连接</a>');
+
+            //新建一个带有属性的元素，把他赋值给$a
+            $a = $('<a href="#">这是一个连接</a>');
+            $('#div1').append($a);
+            //新建一个空的a元素
+            $a2 = $('<a>');
+            $('#div1').append($a2);
+            //子元素放入父元素内部的后面
+            $a3 = $('<a href="#">这是2个连接</a>');
+            $a3.appendTo($('#div1'));
+             //子元素放入父元素内部的前面
+            $p = $('<p>这是一个p</p>')
+            $('#div1').prepend($p);
+            //子元素放入父元素内部的前面
+            $p2 = $('<p>这是一个p2</p>')
+            $p2.prependTo($('#div1'));
+            //插入到div1的后面，插入同级
+            $h2 = $('<h2>h2</h2>')
+            //$h2.insertAfter($('#div1'))
+            $('#div1').after($h2);
+             //插入到div1的后面，插入同级
+            $h3 = $('<h3>h3</h3>')
+            //$h3.insertBefore($('#div1'));
+            $('#div1').before($h3);
+        })
+    </script>
+</head>
+<body>
+    <div id="div1">
+        <h1>这是一个h1元素</h1>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $('.level1').click(function(){
+                //选择类为level1的a标签紧挨着的标签\
+                //通过stop（）可以修正反复点击导致的持续动画的问题
+                $(this).next().stop().slideToggle().parent().siblings().children('ul').slideUp();
+
+
+            })
+
+        })
+
+    </script>
+    <style type="text/css">
+        *{
+            padding:0;
+            margin:0;
+
+        }
+        .menu{
+            width:300px;
+            background-color:blue;
+            margin:50px auto 0;
+            list-style:none;
+            font-size:20px;
+            text-indent:10px;
+        }
+         .menu li{
+            border-bottom:1px solid #fff;
+         }
+        .menu li a{
+            color:#fff;
+            text-decoration:none;
+            display:block;
+        }
+        .menu li ul{
+            list-style:none;
+            background-color:cyan;
+            display:none;
+        }
+        .menu li ul {
+
+            text-indent:20px;
+        }
+         .menu li ul li:hover{
+            background-color:gold;
+         }
+    </style>
+
+</head>
+<body>
+    <ul class="menu">
+        <li>
+            <a href="#" class="level1">水果</a>
+            <ul class="current">
+                <li><a href="#">苹果</a></li>
+                <li><a href="#">梨子</a></li>
+                <li><a href="#">葡萄</a></li>
+                <li><a href="#">火龙果</a></li>
+
+            </ul>
+        </li>
+
+        <li>
+            <a href="#" class="level1">海鲜</a>
+            <ul >
+                <li><a href="#">花甲</a></li>
+                <li><a href="#">扇贝</a></li>
+                <li><a href="#">龙虾</a></li>
+                <li><a href="#">象拔蚌</a></li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="#" class="level1">肉类</a>
+            <ul >
+                <li><a href="#">猪肉</a></li>
+                <li><a href="#">牛肉</a></li>
+                <li><a href="#">羊肉</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#" class="level1">蔬菜</a>
+            <ul >
+                <li><a href="#">娃娃菜</a></li>
+                <li><a href="#">西红柿</a></li>
+                <li><a href="#">西芹</a></li>
+                <li><a href="#">胡萝卜</a></li>
+
+            </ul>
+         <li>
+            <a href="#" class="level1">速冻</a>
+            <ul >
+                <li><a href="#">苹果</a></li>
+                <li><a href="#">梨子</a></li>
+                <li><a href="#">葡萄</a></li>
+                <li><a href="#">火龙果</a></li>
+
+            </ul>
+        </li>
+        </li>
+
+
+
+
+
+
+    </ul>
+
+</body>
+</html>

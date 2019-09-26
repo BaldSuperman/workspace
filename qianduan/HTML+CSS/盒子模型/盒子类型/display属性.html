@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>display属性</title>
+    <style type="text/css">
+        body{
+            font-size:0;
+        }
+        .box{
+            width:200px;
+            height:200px;
+            background-color:gold;
+            /*转换伪内联元素 不支持宽高
+            display:inline;*/
+            /*转换伪内联快元素 具有内联 和块的优点*/
+            display:inline-block;
+            font-size:16px;
+        }
+        .con{
+            width:200px;
+
+
+        }
+        .con h3{
+            font-size:30px;
+        }
+        /*咋爱鼠标悬停在con区域内时，将box2的display属性的隐藏给覆盖掉 使之可见*/
+        .con:hover .box2{
+            display:block;
+        }
+        .box2{
+            width:200px;
+            height:200px;
+            background-color:gold;
+            font-size:16px;
+            /*将box2隐藏*/
+            display:none;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box">div元素</div>
+    <div class="box">div元素</div>
+    <br>
+    <div class="con">
+        <h3>文字的标题</h3>
+        <div class="box2">文字标题的说明</div>
+    </div>
+</body>
+</html>

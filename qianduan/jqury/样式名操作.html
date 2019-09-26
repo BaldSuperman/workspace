@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+
+        $(function(){
+            var $div = $('.box');
+            //为$div添加类选择器 big
+            $div.addClass('big');
+            // 为$div移除类red
+            $div.removeClass('red');
+
+        })
+    </script>
+    <style type="text/css">
+        .box{
+            width:300px;
+            height:100px;
+            background-color:gold;
+        }
+        .big{
+            font-size:30px;
+
+        }
+        .red{
+             color:red;
+        }
+    </style>
+</head>
+<body>
+    <div class="box red">第一个</div>
+
+</body>
+</html>

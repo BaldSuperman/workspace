@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+    //当整个页面加载完在执行下面语句
+        window.onload = function(){
+        //通过id获取元素赋值给oDiv变量
+         var oDiv = document.getElementById('div1');
+         //读取元素里面的内容
+         var sTr = oDiv.innerHTML;
+         alert(sTr);
+         //改写元素里面的内容
+         //oDiv.innerHTML = "修改的文字";
+         oDiv.innerHTML = "<a href='http://www.baidu.com'>百度</a>";
+
+        }
+    </script>
+    <style type="text/css">
+        .box{
+            font-size:20px;
+            color:gold;
+        }
+        .box02{
+            font-size:30px;
+            color:pink;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="" id="div1">这是一个div元素</div>
+
+</body>
+</html>

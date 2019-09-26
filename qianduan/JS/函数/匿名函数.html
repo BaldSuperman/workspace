@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            var oBtn = document.getElementById('btn01');
+            //函数名不能写小括号,不然函数会直接执行
+            //将事件属性和一个函数关联
+           /*
+            oBtn.onclick = fnChange;
+
+            function fnChange(){
+                var oDiv = document.getElementById('div1');
+                oDiv.innerHTML = "这是更改后的值";
+                oDiv.style.color="red";
+                oDiv.style.fontSize = "30px";
+            }
+            下面时匿名函数的写法
+            */
+            /*匿名函数*/
+            oBtn.onclick =  function fnChange(){
+                var oDiv = document.getElementById('div1');
+                oDiv.innerHTML = "这是更改后的值";
+                oDiv.style.color="red";
+                oDiv.style.fontSize = "30px";
+            };
+     }
+    </script>
+    <style type="text/css">
+        .test{
+
+            width:50px;
+            height:50px;
+            background-color:gold;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1" >这是一个div元素</div>
+    <input class="test"  id="btn01" type="button" value="改变div" >
+</body>
+</html>

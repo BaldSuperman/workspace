@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var $div = $('#div1');
+            //第一个div1中的文字颜色
+            $div.css({'color':'red'});
+            var $divs = $('.box');//多个class为box的div
+            $divs.css({'color':'green'});
+            var $li = $('.list li');
+            // 带"-"的样式属性，可以写成驼峰式的，也可以写成原始的
+            $li.css({'background-color':'pink','listStyle':'none'})
+
+
+
+        })
+    </script>
+</head>
+<body>
+    <div id="div1">这是一个div元素</div>
+    <div class="box">`这是第二个div</div>
+    <div class="box">这是第三个div</div>
+    <ul class="list">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+        <li>7</li>
+        <li>8</li>
+    </ul>
+</body>
+</html>

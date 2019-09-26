@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style>
+		#demo,#add{
+			font-size: 200px;
+		}
+		input{
+			
+			background-color: red; 
+
+		}
+	</style>
+
+</head>
+<body>
+	
+	<div id="demo">0</div>
+	<a href="#"><input id="add" type="button" value="点击一下"></a>
+
+	<script type="text/javascript">
+		var add=document.getElementById("add");
+		var demo=document.getElementById("demo");
+		add.onclick=function (){
+			var a=demo.innerHTML;
+			a++;
+			demo.innerHTML=a;	
+		}
+		var x=3;var y=2;var z=(x+2)/y;alert(z);
+		/*
+		document.getElementById("demo").style.width = "200px";
+		document.getElementById("demo").style.height = "200px";
+		document.getElementById("demo").style.backgroundColor = "red";
+		*/
+		//var c=240;
+		//alert(c.toString(2));
+		//console.log("今天是");
+		//console.warn("你是");
+		//console.error("天气好");
+		//document.write("今天下雪了");
+		//var a=2;
+		//document.write(a);
+	</script>
+</body>
+</html>

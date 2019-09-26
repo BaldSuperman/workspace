@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        body{
+            margin:0;
+            padding:0;
+        }
+        .banner{
+            width:960px;
+            height:200px;
+            background-color:cyan;
+            margin:0 auto;
+        }
+        .menu{
+            width:960px;
+            height:80px;
+            background-color:gold;
+            margin:0 auto;
+            text-align:center;
+            line-height:80px;
+            opacity:0.3;
+        }
+        .menu_back{
+            width:960px;
+            height:80px;
+            margin:0 auto;
+            display:none;
+        }
+        p{
+            text-align:center;
+            color:red;
+        }
+        .totop{
+            width:60px;
+            height:60px;
+            background-color:#000;
+            color:#fff;
+            position:fixed;
+            line-height:60px;
+            text-align:center;
+            font-size:40px;
+            right:20px;
+            bottom:50px;
+            border-radius:60px;
+            /*鼠标放在上面变成手*/
+            cursor:pointer;
+            display:none;
+
+        }
+
+
+    </style>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var $menu = $('.menu');
+            var $menu_back =$('.menu_back');
+            var $totop = $('.totop');
+            $(window).scroll(function(){
+                var iNum = $(document).scrollTop();
+                //document.title = iNum;
+                if(iNum>200){
+                    $menu.css({
+                    'position':'fixed',
+                    'left':'50%',
+                    'top':0,
+                    'margin-left':-480
+                    });
+                    $menu_back.show();
+                    $totop.show();
+                }
+                else{
+                    $menu.css({
+                    //将布局设置为默认值，即没有定位
+                        'position':'static',
+                        'marginLeft':'auto'
+                    })
+                     $menu_back.hide();
+                     $totop.hide();
+
+                }
+            })
+            $totop.click(function(){
+                //兼容的写法，让页面回到顶部即scrolTop为0
+                $('html,body').animate({'scrollTop':0});
+
+            })
+
+        })
+    </script>
+</head>
+<body>
+    <div class="banner"></div>
+    <div class="menu">菜单</div>
+    <div class="menu_back"></div>
+    <div class="totop">滚</div>
+      <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+ <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+     <P>文档内容</P>
+    <br>
+    <br>
+    <br>
+</body>
+</html>

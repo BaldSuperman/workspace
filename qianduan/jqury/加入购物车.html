@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .chart{
+            width:150px;
+            height:50px;
+            border:2px solid #000;
+            text-align:center;
+            line-height:50px;
+            float:right;
+            margin-top:50px;
+        }
+        .chart em{
+            font-style:normal;
+            color:red;
+            font-weight:bold;
+        }
+        .add{
+            width:100px;
+            height:50px;
+            background-color:green;
+            border:0;
+            color:#000;
+            float:left;
+            margin-top:300px;
+            margin-left:300px;
+        }
+        .point{
+            width:16px;
+            height:16px;
+            background-color:red;
+            border-radius:16px;
+            position:fixed;
+            left:0;
+            top:0;
+            display:none;
+            //盖住其他元素
+            z-index:9999;
+        }
+    </style>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+             var $chart = $('.chart');
+             var $count = $('.chart em');
+             var $btn = $('.add');
+             var $point = $('.point');
+             var $w01 = $btn.outerWidth();
+             var $h01 = $btn.outerHeight();
+             var $w02 = $chart.outerWidth();
+             var $h02 = $chart.outerHeight();
+             $btn.click(function(){
+                var oPos01 = $btn.offset();
+                var oPos02 = $chart.offset();
+
+                $point.css({'left':oPos01.left+parseInt($w01/2)-8,'top':oPos01.top+($h01/2)-8});
+                $point.show()
+                $point.stop().animate({'left':oPos02.left+parseInt($w02/2)-8,'top':oPos02.top+($h02/2)-8},1000,
+                 function(){
+                    $point.hide();
+                    //读$count便签里里面的内容
+                    var iNum = $count.html();
+                    $count.html(parseInt(iNum)+1);
+
+                 }
+                );
+
+             })
+        })
+
+    </script>
+</head>
+<body>
+    <div class="chart">购物车<em>0</em></div>
+    <input type="button" value="加入购物车" class="add" >
+    <div class="point"></div>
+</body>
+</html>

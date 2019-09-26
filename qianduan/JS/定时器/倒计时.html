@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            var time = setInterval(fnDay,1000);
+            function fnDay(){
+                var oDiv = document.getElementById('div1');
+                //实际开发中，需要读取后台的时间，可以通过ajax来读取
+                var sNow = new Date();
+                //设置未来时间6月30日24点
+                var sFuture = new Date(2019,5,30,24,0,0);
+                //计算还有多少s
+                var sLeft = parseInt((sFuture -sNow)/1000);
+                var iDays = parseInt(sLeft/86400);
+                var iHours = parseInt((sLeft%86400)/3600);
+                var iMinute = parseInt(((sLeft%86400)%3600)/60);
+                var iSecond = parseInt(sLeft%60);
+                var sTr = '当前时间距离7月一日：'+iDays+'天'+iHours +'小时 '+ iMinute +'分钟 '+iSecond +'秒';
+                oDiv.innerHTML = sTr;
+        }
+
+        }
+        
+    </script>
+</head>
+<body>
+    <div class="box" id="div1"></div>
+
+</body>
+</html>

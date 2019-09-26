@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+        /*
+            $('#btn').click(function(){
+                alert('click事件');
+
+            })
+         */
+         //点击或者鼠标移入的时候都执行绑定的匿名函数
+         $('#btn').bind('click mouseover',function(){
+            alert('2个事件');
+            //解除绑定
+            $(this).unbind('mouseover');
+
+         })
+
+
+        })
+    </script>
+</head>
+<body>
+    <input type="button" value="按钮" id="btn">
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>盒子模型</title>
+    <style type="text/css">
+        .box{
+            width:200px;
+            height:200px;
+            background-color:#ffff00;
+            /*边框*/
+
+            /*border-top-color:#000;*/
+           /* border-top-width:10px;*/
+            /*实线：solid 虚线： dashed 点线：dotted*/
+           /* border-top-style:solid;*/
+           /*边框三局和成一句*/
+            /*
+            border-top:10px solid #000;
+            border-left:10px dashed #f09092;
+            border-right:10px dotted #fa0978;
+            border-bottom:10px solid #000;
+            */
+            /*设置4个边的边框一样*/
+            border:10px solid #000;
+
+            /*设置单个方向的内边距*/
+            /*
+            padding-top:30px;
+            padding-lef:40px;
+            padding-right:80px;
+            padding-bottom:100px;
+            */
+             /*设置所有的内边距,按顺时针方向设置 上 右 下 左*/
+            /*padding:20px 80px 100px 40px;*/
+            /*如果只有3个值 则左右用同一个值80*/
+            /*padding:20px 80px 100px;*/
+            /*如果只有2个值上下公用一个值，左右公用一个值*/
+            /*padding:20px 80px;*/
+            /*如果只有一个值，则公用一个值*/
+            padding:20px;
+            /*设置外间距 margin和padding用法一致*/
+            margin-top:100px;
+            }
+
+
+    </style>
+</head>
+<body>
+    <div class="box">盒子里面的文字</div>
+</body>
+</html>

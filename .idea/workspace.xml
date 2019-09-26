@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/元素类型-块元素.html" description=" height:200px;" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/前端/jqury/基础知识.md" line="15" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8f1717e-4e63-4ee3-97d0-b5c97b3bf6a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/CSS权重/CSS权重值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/CSS权重/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/loading动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/小鸟飞翔图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/image/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/image/iconss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/image/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/天天生鲜/移动端页面布局流体式加响应.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/屏幕适配问题/image/banne01-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/屏幕适配问题/image/banne01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/屏幕适配问题/相关知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/屏幕适配问题/背景图缩放.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/屏幕适配问题/视口.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/em单位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/rem单位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/rem布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/响应式布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/流体布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/函数和变量预解析.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/函数定义和执行.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/加法运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/匿名函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/字符串处理方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/封闭函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/提取行间事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/数组去重.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/网页换肤/css/skin01.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/网页换肤/css/skin02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/函数/网页换肤/网页换肤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/5s关闭弹框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/5s弹框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/倒计时.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/定时器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/定时器动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/无缝滚动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/无缝滚动2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/定时器/时钟.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/常用内置对象/window.loaction的属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/常用内置对象/window.loaction的属性02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/常用内置对象/链接到window。location的属性2页面.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/操作属性/属性操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/操作属性/属性操作[].html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/操作属性/操作标签包裹的内容.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/操作属性/获取页面元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/JS/操作属性/通过标签获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/animate动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/css方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/image/001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/image/002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/image/003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/jquery循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/jquery的加载.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/jquery的引入容易出错的写法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/jquery选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/js/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/json/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/css/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/jquery事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/js制作css3动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/resize事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/事件冒泡.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/事件委托.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/绑定click事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/阻止事件冒泡-弹窗案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/鼠标滚轮事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/juqery事件/鼠标移入移出事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/元素的属性操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/加入购物车.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/可视区文档尺寸.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/手风琴.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/样式名操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/滑动选项卡demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/特殊效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/绑定事件的其他方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/css/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/adv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/adv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/banne06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/goods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/iconss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/slide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/solide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/slide2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/综合demo/幻灯片demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/置顶菜单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/节点操作/todolist计划列表实现.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/节点操作/自己页面.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/节点操作/节点操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/获取元素尺寸.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/获取元素索引值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/获取元素绝对位置.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/选择器的判断是否选中元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/选择器过滤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/选项卡demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/前端/jqury/链式调用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据相关笔记/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFID/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFID/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFID/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFID/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/css/css基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/css/css基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/css。选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/css。选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/person.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/person.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/right.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/right.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/伪类和伪元素选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/伪类和伪元素选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/层级选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/层级选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/层级选择器2.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/层级选择器2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/常用文本样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/常用文本样式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/结合css.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/结合css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/表单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/html/颜色选择.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/html/颜色选择.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/animation动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/animation动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/css3圆角.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/css3圆角.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/image/banne01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/banne01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/image/风车.png" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/image/风车.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/transform-origin.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/transform-origin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/transform3d.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/transform3d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/transform反面效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/transform反面效果.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/transition动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/transition动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/transition实例.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/transition实例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/图片翻转动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/图片翻转动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/基本知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/基本知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/透明.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/透明.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/动画/H5 中CSS3新增功能/风车动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/动画/H5 中CSS3新增功能/风车动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/css/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/css/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/adv01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/adv01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/adv02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/adv02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/banne06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/banne06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/goods.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/goods.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/iconss.png" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/iconss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/slide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/slide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/image/solide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/image/solide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/天天生鲜/涉及的知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/涉及的知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/background属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/background属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/image/person.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/image/person.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/image/right.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/image/right.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/image/test1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/image/test1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/网页背景固定.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/网页背景固定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/背景图定位.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/背景图定位.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/backgroun属性/雪碧图制作背景列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/backgroun属性/雪碧图制作背景列表.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/各种例子/导航条设计.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/各种例子/导航条设计.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/各种例子/翻页效果练习.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/各种例子/翻页效果练习.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/各种例子/菜单.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/各种例子/菜单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/margin top 塌陷.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/margin top 塌陷.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/margindemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/margindemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/margin使用技巧负值.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/margin使用技巧负值.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/margin可能的错误.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/margin可能的错误.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/margin的使用技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/margin的使用技巧.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/元素溢出.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/元素溢出.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/垂直边距的实例demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/垂直边距的实例demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/盒子模型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/基础-margin/盒子练习.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/基础-margin/盒子练习.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/固定定位.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/固定定位.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/定位demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/定位demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/定位元素的层级.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/定位元素的层级.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/定位实例2.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/定位实例2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/相对定位.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/相对定位.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/定位/绝对定位.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/绝对定位.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/display属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/display属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/image/person.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/image/person.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/image/right.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/image/right.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/元素类型-内联元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/元素类型-内联元素.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/元素类型-内联块实例.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/元素类型-内联块实例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/元素类型-块元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/元素类型-块元素.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/元素类型转换.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/元素类型转换.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/复习练习.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/复习练习.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/文字环绕.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/文字环绕.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/清楚浮动.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/清楚浮动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/菜单.html" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/菜单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前端/盒子模型/盒子类型/黑子类型的基本知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端/HTML+CSS/盒子模型/盒子类型/黑子类型的基本知识.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大数据相关笔记/基础知识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="228">
+                <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e0f87316-bf5e-4d87-a31c-b27c76507737" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/前端/JS/定时器/5s关闭弹框.html" />
+        <option value="$PROJECT_DIR$/RFID/test1.py" />
+        <option value="$PROJECT_DIR$/RFID/test2.py" />
+        <option value="$USER_HOME$/Documents/Tencent Files/1395399436/FileRecv/testrfid.py" />
+        <option value="$PROJECT_DIR$/前端/jqury/jquery的加载.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/jquery的引入容易出错的写法.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/jquery选择器.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/选择器过滤.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/选择器的判断是否选中元素.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/css方法.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/样式名操作.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/绑定click事件.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/获取元素索引值.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/选项卡demo.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/特殊效果.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/链式调用.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/滑动选项卡.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/animate动画.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/滑动选项卡demo.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/获取元素尺寸.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/获取元素绝对位置.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/加入购物车.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/可视区文档尺寸.html" />
+        <option value="$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/基础知识.md" />
+        <option value="$PROJECT_DIR$/前端/HTML+CSS/css/css基础知识.md" />
+        <option value="$PROJECT_DIR$/前端/jqury/置顶菜单.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/元素的属性操作.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/手风琴.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/jquery循环.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/鼠标移入移出事件.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/jquery事件.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/raise事件.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/绑定事件的其他方法.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/事件冒泡.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/阻止事件冒泡-弹窗案例.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/事件委托.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/节点操作/节点操作.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/节点操作/自己页面.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/节点操作/test.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/节点操作/todolist计划列表实现.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/juqery事件/js制作css3动画.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/juqery事件/鼠标滚轮事件.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/juqery事件/css/test.css" />
+        <option value="$PROJECT_DIR$/前端/jqury/综合demo/幻灯片demo.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/css/main.css" />
+        <option value="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/index.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/slide2.js" />
+        <option value="$PROJECT_DIR$/前端/jqury/基础知识.md" />
+        <option value="$PROJECT_DIR$/前端/jqury/json/data.json.html" />
+        <option value="$PROJECT_DIR$/前端/jqury/json/data.json" />
+        <option value="$PROJECT_DIR$/大数据相关笔记/基础知识.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="773" />
+    <option name="y" value="52" />
+    <option name="width" value="643" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="feiji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="大数据相关笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_work\前端\jqury\juqery事件" />
+      <recent name="D:\python_work\前端\jqury\js" />
+      <recent name="D:\python_work\前端\JS\函数\网页换肤" />
+      <recent name="D:\python_work\前端\JS" />
+      <recent name="D:\python_work\前端\JS\操作属性" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_work\前端\jqury\综合demo\天天生鲜\js" />
+      <recent name="D:\python_work\前端\jqury\综合demo\天天生鲜\image" />
+      <recent name="D:\python_work\前端\jqury\综合demo" />
+      <recent name="D:\python_work\前端\jqury\js" />
+      <recent name="D:\python_work\前端\jqury" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plane_main">
+    <configuration name="大实验" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RFID" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RFID/大实验.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/RE练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/RE练习/分组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程池" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/进程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/进程/进程池.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="给服务器添加配置文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mini-web框架/让web服务器支持配置文件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-web框架/让web服务器支持配置文件/给服务器添加配置文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件加载拷贝器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/进程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/进程/文件加载拷贝器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="查看所有的全局对象应用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\python_work\元类\元类创建类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多个装饰器装饰一个函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/闭包和装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/闭包和装饰器/多个装饰器装饰一个函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多任务拷贝显示进度条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/进程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/进程/多任务拷贝显示进度条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="客户端" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/网络编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/网络编程/客户端.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="不定长参数的函数装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/闭包和装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/闭包和装饰器/不定长参数的函数装饰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="对带有返回值的函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/闭包和装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/闭包和装饰器/对带有返回值的函数进行装饰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据库增删改案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySql/数据库增删改案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="返回用户需要的页面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/http/返回用户需要的页面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="返回浏览器所需页面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/http/返回浏览器所需页面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="通过传递字典实现浏览器请求的资源不一样响应不一样" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mini-web框架" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-web框架/通过传递字典实现浏览器请求的资源不一样响应不一样.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="返回index网页" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/http/返回index网页.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feiji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feiji/plane_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="客户端tco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python高级语法/网络编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python高级语法/网络编程/客户端tco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RFID" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RFID/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plane_main" />
+        <item itemvalue="Python.返回index网页" />
+        <item itemvalue="Python.大实验" />
+        <item itemvalue="Python.客户端tco" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f1717e-4e63-4ee3-97d0-b5c97b3bf6a4" name="Default Changelist" comment="" />
+      <created>1558184293080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558184293080</updated>
+    </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1558919231937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558919231937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="s">
+      <created>1558925052161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558925052161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="s">
+      <created>1559565486687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559565486688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SS">
+      <created>1560754878215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560754878215</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SS">
+      <created>1560755111385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560755111385</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.515625" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30163935" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49624062" weight="0.09016393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.35765123" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5037594" side_tool="true" weight="0.3704918" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.08064516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <MESSAGE value="SS" />
+    <option name="LAST_COMMIT_MESSAGE" value="SS" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/feiji/plane_Sprite.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/前端/jqury/滑动选项卡.html" />
+    <entry file="file://$PROJECT_DIR$/前端/jqury/特殊效果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/获取元素绝对位置.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/获取元素尺寸.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/可视区文档尺寸.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="133" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/HTML+CSS/css/css基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/HTML+CSS/移动端/布局/基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="52" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="10" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/HTML+CSS/盒子模型/定位/基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/加入购物车.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="44" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/元素的属性操作.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/image/001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/滑动选项卡demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/获取元素索引值.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/选项卡demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/手风琴.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/jquery的加载.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" selection-start-line="5" selection-start-column="5" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/css方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="5" selection-start-column="2" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/置顶菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/jquery事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/resize事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/鼠标移入移出事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/animate动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/事件冒泡.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/绑定事件的其他方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/阻止事件冒泡-弹窗案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/选择器的判断是否选中元素.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/节点操作/节点操作.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/事件委托.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/节点操作/自己页面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/节点操作/test.html" />
+    <entry file="file://$PROJECT_DIR$/前端/jqury/链式调用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/jquery循环.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/节点操作/todolist计划列表实现.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/js/jquery.mousewheel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/HTML+CSS/天天生鲜/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/css/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/鼠标滚轮事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/solide.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/image/slide.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/jquery-3.4.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/幻灯片demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="207" column="1" lean-forward="true" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/juqery事件/js制作css3动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/综合demo/天天生鲜/js/slide2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="100" column="28" lean-forward="true" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/json/data.json.html" />
+    <entry file="file://$PROJECT_DIR$/前端/jqury/基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4278">
+            <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端/jqury/json/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/sql注入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="82" lean-forward="true" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feiji/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大数据相关笔记/基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

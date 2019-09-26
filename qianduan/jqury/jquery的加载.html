@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        window.onload = function(){
+            var oDiv = document.getElementById('div1');
+            alert('原生弹出的'+oDiv);
+        }
+        /*
+        //ready的完整写法：
+        // ready 比window.onload要快的原因是。window.onload是等标签加载完后在渲染完后运行
+        //ready是等标签加载完后就运行，所以他比windo。onload要快
+        $(document).ready(function(){
+            var $div = $('#div1');
+            alert('jquery弹出的'+$div);
+        })
+        */
+        //简写
+        $(function(){
+            var $div = $('#div1');
+            alert('jquery弹出的'+$div);
+
+        })
+    </script>
+</head>
+<body>
+    <div id="div1">这是一个div元素</div>
+</body>
+</html>

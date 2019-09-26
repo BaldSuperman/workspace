@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .box{
+            width:500px;
+            height:300px;
+            border:1px solid #000;
+            margin:50px auto 0;
+            /*设置父级元素 font-size：0；在给子类设置font-size可以消除间隙*/
+            font-size:0;
+        }
+        /*把a转换伪内联块元素*/
+        .box a{
+            background-color:gold;
+            /*虽然设置了宽高 但是内联元素的宽高只会跟随内容*/
+            width:100px;
+            height:50px;
+            /*内联元素 支持margin的左右设置 但是上下不允许设置*/
+            margin:20px;
+              /*内联元素 支持padding的左右设置 但是上下不允许设置
+                显示时会出现BUG，背景色上下会变大，但是盒子没有向下移动
+              */
+            padding: 10px;
+            font-size:16px;
+             /*把当前元素转换伪内联块元素，那么a元素会支持宽高的设置
+                也会支持margin的设置
+                仍然会有内联元素的特点
+             */
+            display:inline-block;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div></div>
+            <a href="#">链接文字1</a>
+            <a href="#">链接文字2</a>
+            <a href="#">链接文字3</a>
+            <a href="#">链接文字4</a>
+            <a href="#">链接文字5</a>
+    </div>
+
+</body>
+</html>

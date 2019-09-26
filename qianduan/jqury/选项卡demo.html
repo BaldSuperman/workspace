@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .btns input{
+            width:100px;
+            height:40px;
+            background-color:#ddd;
+            border:0;
+
+        }
+
+        .btns .current{
+            background-color:gold;
+        }
+        .cons div{
+            width:500px;
+            height:300px;
+            background-color:gold;
+            display:none;
+
+            text-align:center;
+            font-size:30px;
+            line-height:300px;
+        }
+        .cons .active{
+            display:block;
+        }
+    </style>
+     <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var $btn = $('.btns input');
+            var $div = $('.cons div');
+            $btn.click(function(){
+            /*
+                //使用jquery对象用$(this),表示被单击的对象
+                $(this).addClass('current');
+                //选择除了当前被点击对象外的所有同级对象去除current样式
+                $(this).siblings().removeClass('current');
+
+                */
+                //可简写为
+                $(this).addClass('current').siblings().removeClass('current');
+                //通过被点击的按钮索引值使对应的盒子加上样式
+                $div.eq($(this).index()).addClass('active').siblings().removeClass('active');
+            })
+        })
+    </script>
+</head>
+<body>
+    <div class="btns">
+        <input type="button" value="01" class="current">
+        <input type="button" value="02">
+        <input type="button" value="03">
+    </div>
+    <div class="cons">
+        <div class="active">选项卡1的内容 </div>
+        <div class="">选项卡2的内容</div>
+        <div class="">选项卡3的内容</div>
+
+    </div>
+</body>
+</html>

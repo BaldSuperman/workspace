@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+
+        $(function(){
+            var $div = $('#box');
+            var sTr = $div.css('fontSize');
+            alert(sTr);
+            $div.css({'color':'red','backgroundColor':'pink','fontSize':'20px'})
+
+            /* 原生js无法读取行间没有定义的css属性
+            var oDiv = document.getElementById("box");
+            alert(oDiv.style.fontSize);
+            */
+
+        })
+    </script>
+</head>
+<body>
+    <div id="box">第一个</div>
+
+</body>
+</html>

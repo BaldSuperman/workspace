@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            //获得焦点时做说明事情
+            /*$('#input01').focus(function(){
+                alert('获得焦点');
+
+            })*/
+            //等同于在pinput属性上添加autofocus
+            //一般用来让input元素开始就获取焦点，只能时一个元素获得焦点
+            $('#input01').focus();
+            $('#input01').blur(function(){
+                //获取input元素的value值用val（）;
+                var sVal = $(this).val()
+                alert(sVal);
+            })
+            $('#form1').submit(function(){
+                alert('提交');
+                //阻止默认提交行为
+                //return false;
+            })
+
+        })
+
+    </script>
+</head>
+<body>
+    <form action="" id="form1">
+        <input type="text" id="input01">
+        <input type="text" id="input02">
+        <input type="submit" value="提交" id="sub">
+    </form>
+
+</body>
+</html>

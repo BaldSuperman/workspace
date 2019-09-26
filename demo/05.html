@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+	*{
+	margin:0;
+	padding:0;
+}
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+.zc{
+	width:400px;	
+	border:2px solid #ccc;
+	margin: 100px auto;
+	padding:40px 30px 60px 30px;
+	position: relative;
+}
+h3{
+	margin-bottom: 20px;
+}
+.zc div{
+	margin:10px auto;
+}
+.zc font{
+	font-size: 1px;
+    color: #ccc;
+    display: block;
+    float: right;
+    margin-right: 5px;
+    width: 130px;
+    height: 19px;
+    text-align: center;
+    line-height: 19px;
+
+}
+button{
+	display:block;
+	width:100px;
+	height:40px;
+	margin:30px auto;
+	background-color:#DA8324;
+	border:0;
+}
+.zc span{
+	text-align: center;
+	float: left;
+	width: 82px;
+	height: 21px;
+	
+}
+.zc input{
+	float: left;
+}
+.zc .msg{
+	width:100px;
+	height:20px;
+	background-color: red;
+	margin: 0 auto;
+}
+.clearfix:after{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden
+}
+.clearfix{
+	*zoom:1
+}
+.zc .current-green{
+	color: green;
+}
+.zc .current-red{
+	color: red;
+}
+.zc a{
+	position: absolute ;
+	right: 50px;
+	bottom: 110px;
+	text-decoration: none;
+}
+</style>
+<title>会员注册</title>
+</head>
+<body>
+	<div class="zc">
+		<form action="AddressServlet" method="post" onsubmit="return chcekform();">
+			<h3>账户注册</h3>
+			<div id="name" class="clearfix">
+				<span> &nbsp; 账 &nbsp;&nbsp; 号 ：</span>
+				<input type="text"  name="name"/>
+				<font>1到10位，数字不能开头</font>
+			</div>
+			<div id="password" class="clearfix">
+				<span> &nbsp; 密 &nbsp;&nbsp; 码 ：</span>
+				<input type="password"  name="password"/>
+				<font>6-16位字符</font>
+			</div>
+			<div id="repassword" class="clearfix">
+				<span>重复密码：</span>
+				<input type="password"  name="repassword"/>
+				<font></font>
+			</div>
+			<div id="email" class="clearfix">
+				<span>会员邮箱：</span>
+				<input type="text"  name="email" />
+			</div>
+			<div class="clearfix">
+				<span>联系电话：</span>
+				<input type="text" name="phone"/>
+			</div>
+			<button id="submit" >注册</button>
+
+		</form>
+		<a href="#">已有账号，登陆</a>
+		<div class="msg">${DBMes}</div>
+	</div>
+	
+</body>
+</html>

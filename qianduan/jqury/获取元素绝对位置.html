@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var $div = $('.box');
+
+            $div.click(function(){
+                var oPos = $div.offset();
+                $div[0].innerHTML = oPos.left;
+                document.title = oPos.left + '|' +oPos.top;
+
+
+            });
+
+
+        })
+
+    </script>
+
+    <style type="text/css">
+        .box{
+            width:200px;
+            height:200px;
+            margin:50px auto 0;
+            background-color:gold;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+
+    <script type="text/javascript">
+        var i = 0 ;
+        $(window).mousewheel(
+            function(event,dat){
+            //打印dat:dat的值表示当前是上滑还是下移动
+                alert(dat);
+            //控制台打印滑动次数
+                i++
+                console.log(i);
+
+            }
+
+
+        )
+    </script>
+    <style type="text/css">
+        .ooo{
+            background:url(image/adv01.jpg);
+            width:200px;
+            height:300px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="ooo"></div>
+</body>
+</html>

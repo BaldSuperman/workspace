@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        //预解析会把变量的声明提前
+        alert(iNum);//弹出undefined
+        //alert(iNum2);//使用未声明的变量，会报错
+        var iNum = 12;
+        //预解析会让函数声明和定义提前
+        fnMyalert();//会弹出hellow
+        function fnMyalert(){
+            alert("hellow");
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
